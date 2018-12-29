@@ -1,4 +1,4 @@
-token=NTA4MjE5OTM4NDg2NDg0OTk1.Du8PuA.v1nLl_I89XvojRbD6J5eDQycjkY
+token=NTI4NjA4NTk1MTY4ODU0MDM3.Dwkwtg.YA8gdQ0ubrhWYzbnZEFHRriaMFE
 owner=228139766573432832 
 prefix= 1
 game= 1play
